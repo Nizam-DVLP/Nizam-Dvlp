@@ -1,11 +1,10 @@
 # 💫 Hi 👋, I'm Sayyad Nizamuddin
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Developer || Junior Developer || SDA from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sayyadnizamuddin99@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Web-Design
 - 🌱 **I’m currently learning:** Data structures and algorithms 
-- 👯 **I’m looking to collaborate on:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sayyadnizamuddin99@gmail.com
 - 😄 **Pronouns:** Nizam Bro
