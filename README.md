@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **sayyadnizamuddin99@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Backend-Development
-- 🌱 **I’m currently learning:** Data structures and algorithms 
+- 🌱 **I’m currently learning:** Advanced Data Structures & Algorithms, System Design, Distributed Systems, Event-Driven Architecture 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sayyadnizamuddin99@gmail.com
 - 😄 **Pronouns:** Nizam Bro
