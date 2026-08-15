@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sayyad Nizamuddin
-**A passionate Software Developer || Junior Developer || SDA from India**
+**A passionate Software Developer || Mid Developer || SDA from India**
 
 Email Me 👉 ✉️ **sayyadnizamuddin99@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
